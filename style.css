@@ -1,0 +1,478 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.img{
+height: 200px;
+width: 450px;
+margin-top: 100px;
+}
+ul{
+display: flex;
+width: 40px;
+justify-content: space-around;
+list-style-type: none;
+gap: 100px;
+color:black;
+margin-top: 100px;
+font-size: 70px;
+font-weight: 60px;
+}
+.header{
+width: 100%;
+display: flex;
+justify-content: space-around;
+align-items: center;
+}
+.btn{
+background-color: dodgerblue;
+color: white;
+font-weight: 50px;
+padding: 15px;
+border-radius: 30%;
+border: transparent;
+margin-top: 1px;
+font-size: 60px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+}
+ul li a{
+color: black;
+text-decoration: none;
+}
+.btn:hover{
+background-color: lightslategrey;
+}
+h1{
+    font-size: 150px;
+    font-weight: 210px;
+    margin-left: 410px;
+    margin-top: 400px;
+}
+.p{
+font-size: 80px;
+margin-left: 410px;
+font-weight: 50px;
+margin-top: 60px;
+}
+.bottom{
+background-color: deepskyblue;
+color: black;
+font-weight: 50px;
+border-radius: 20%;
+border: 1px solid transparent;
+margin-left: 410px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 50px;
+padding: 20px;
+margin-top: 60px;
+}
+.bottom:hover{
+    background-color: lightgrey;
+}
+.dot{
+    margin-left: 100px;
+    box-shadow: 10px 10px 5px 12px lightgrey;
+    background-color: beige;
+    color: black;
+    font-weight: 50px;
+    border-radius: 20%;
+    border: 1px solid transparent;
+    padding: 20px;
+    font-size: 50px;
+    margin-top: 60px;
+}
+.dot:hover{
+background-color: deepskyblue
+}
+.web{
+/* margin: 10px; */
+height: 900px;
+width: 1300px;
+margin-top: 350px;
+margin-left: 1000px;
+
+}
+.sec{
+    display: flex;
+    /* justify-content: space-between; */
+}
+.img-div{
+    /* margin: 10px; */
+    height: 600px;
+    width: 600px;
+}
+.heading{
+    font-size: 150px;
+    font-weight: 100px;
+    margin-left: 2500px;
+    margin-top: 500px;
+}
+.text{
+    font-size: 70px;
+    font-weight: 60px;
+    margin-left: 1900px;
+    margin-top: 100px;
+}
+.one{
+    display: flex;
+}
+.three{
+    font-size: 150px;
+    font-weight: 210px;
+    margin-left: 2500px;
+    margin-top: 600px;
+}
+.b{
+    height: 600px;
+    width: 600px;
+}
+.c{
+    height: 900px;
+width: 1300px;
+margin-top: 600px;
+margin-left: 600px;
+
+}
+.four{
+   font-size: 80px;
+margin-left: 2300px;
+font-weight: 50px;
+margin-top: 80px;
+}
+.click{
+    background-color: deepskyblue;
+color: black;
+font-weight: 50px;
+border-radius: 20%;
+border: 1px solid transparent;
+margin-left: 2300px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 50px;
+padding: 20px;
+margin-top: 60px;
+}
+.click:hover{
+    background-color: lightgrey;
+}
+.i{
+    font-size: 150px;
+    font-weight: 210px;
+    margin-left: 500px;
+    margin-top: 900px;
+}
+.j{
+    font-size: 80px;
+margin-left: 500px;
+font-weight: 50px;
+margin-top: 80px;
+}
+.d{
+    display: flex;
+}
+.f{
+    height: 600px;
+    width: 600px;
+}
+.g{
+    height: 900px;
+width: 1300px;
+margin-top: 800px;
+margin-left: 1700px;
+}
+.k{
+    background-color: deepskyblue;
+color: black;
+font-weight: 50px;
+border-radius: 20%;
+border: 1px solid transparent;
+margin-left: 500px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 50px;
+padding: 20px;
+margin-top: 60px;
+}
+.k:hover{
+    background-color: lightgrey;
+}
+.l{
+    display: flex;
+}
+.n{
+    height: 600px;
+    width: 600px;
+}
+.o{
+    height: 900px;
+width: 1300px;
+margin-top: 800px;
+margin-left: 500px;
+}
+.q{
+    font-size: 150px;
+    font-weight: 210px;
+    margin-left: 2200px;
+    margin-top: 800px;
+}
+.r{
+    font-size: 80px;
+margin-left: 2000px;
+font-weight: 50px;
+margin-top: 90px;
+}
+.s{
+    background-color: deepskyblue;
+color: black;
+font-weight: 50px;
+border-radius: 20%;
+border: 1px solid transparent;
+margin-left: 2000px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 50px;
+padding: 20px;
+margin-top: 60px;
+}
+.s:hover{
+background-color: lightgrey;
+}
+.huzaifa{
+    font-size: 130px;
+    font-weight: 150px;
+    margin-left: 2100px;
+    margin-top: 400px;
+}
+.para{
+    font-size: 70px;
+    font-weight: 60px;
+    margin-left: 1300px;
+    margin-top: 100px;
+}
+.chrome{
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.add{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 400px;
+}
+.ver{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.ins{
+    background-color: deepskyblue;
+color: black;
+font-weight: 40px;
+border-radius: 10%;
+border: 1px solid transparent;
+margin-left: 200px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 70px;
+padding: 20px;
+margin-top: 90px;
+}
+.ins:hover{
+    background-color: lightgrey;
+}
+.bord{
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: 700px;
+    margin-right: 3400px;
+    margin-left: 800px;
+    box-shadow: 30px 30px 50px 30px grey;
+}
+.in{
+    
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -1290px;
+    margin-right: 2200px;
+    margin-left: 2000px;
+    box-shadow: 30px 30px 50px 30px grey;
+    
+    
+}
+.firefox{
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+    
+}
+.of{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 400px;
+    
+}
+.out{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 350px;
+    margin-top: 50px;
+    
+}
+.tt{
+    background-color: deepskyblue;
+color: black;
+font-weight: 40px;
+border-radius: 10%;
+border: 1px solid transparent;
+margin-left: 200px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 70px;
+padding: 20px;
+margin-top: 90px;
+
+}
+.tt:hover{
+    background-color: lightgrey;
+}
+.display{
+    border-radius: 2%;
+    border: 1px solid black;
+    margin-top: -1290px;
+    margin-right: 3000px;
+    margin-left: 2500px;
+    box-shadow: 30px 30px 50px 30px grey;
+}
+.opera{
+    height: 400px;
+    width: 400px;
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.to{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 400px;
+}
+.mini{
+    font-size: 70px;
+    font-weight: 40px;
+    margin-left: 350px;
+    margin-top: 50px; 
+}
+.bu{
+    background-color: deepskyblue;
+color: black;
+font-weight: 40px;
+border-radius: 10%;
+border: 1px solid transparent;
+margin-left: 200px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 70px;
+padding: 20px;
+margin-top: 90px;
+}
+.bu:hover{
+    background-color: lightgrey;
+}
+.time{
+    font-size: 120px;
+    font-weight: 90px;
+    margin-left: 2200px;
+    margin-top: 400px;
+}
+.clo{
+    font-size: 70px;
+    font-weight: 60px;
+    margin-left: 1900px;
+    margin-top: 90px;
+}
+.dua{
+    font-size: 80px;
+    font-weight: 90px;
+    margin-top: 500px;
+    margin-left: 2300px;
+}
+.amn{
+    font-size: 80px;
+    font-weight: 90px;
+    margin-top: 80px;
+    margin-left: 2300px;
+}
+.ol{
+    font-size: 80px;
+    font-weight: 90px;
+    margin-top: 80px;
+    margin-left: 2300px;
+}
+.td{
+    font-size: 80px;
+    font-weight: 90px;
+    margin-top: 80px;
+    margin-left: 2300px;
+}
+.info{
+    background-color: deepskyblue;
+color: black;
+font-weight: 60px;
+border-radius: 10%;
+border: 1px solid transparent;
+margin-left: 2500px;
+box-shadow: 10px 10px 5px 12px lightgrey;
+font-size: 70px;
+padding: 20px;
+margin-top: 100px;
+}
+.info:hover{
+    background-color: lightgrey;
+}
+.bl{
+    background-color: rgba(11, 50, 64, 0.383);
+    
+    
+}
+.join{
+    font-size: 90px;
+    font-weight: 70px;
+    margin-left: 2200px;
+    margin-top: 100px;
+}
+.with{
+    font-size: 130px;
+    font-weight: 90px;
+    margin-left: 1700px;
+margin-top: 250px;
+}
+.email{
+    font-size: 100px;
+    border: 1px solid white;
+    border-radius: 10%;
+    margin-top: 200px;
+    margin-left: 900px;
+    background-color:white;
+    box-shadow: 10px 10px 8px 10px #888888;
+    padding: 30px;
+    color: #E1F8DC;
+}
+.email:hover{
+    background-color: deepskyblue;
+}
+.sab{
+    background-color: deepskyblue;
+    font-size: 100px;
+    border-radius: 20%;
+    margin-left: 600px;
+    padding: 40px;
+    box-shadow: 10px 10px 8px 10px #888888;
+    margin-bottom: 200px;
+}
+.sab:hover{
+    background-color: white;
+}
+.dark{
+    background-color: rgb(49, 49, 177);
+}
+.z{
+    height: 200px;
+    width: 450px;
+    margin-right: 500px;
+}
+
